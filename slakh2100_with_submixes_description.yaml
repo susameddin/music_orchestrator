@@ -1,0 +1,10 @@
+# @package __global__
+
+datasource:
+  max_sample_rate: 44100
+  max_channels: 1
+
+  train: egs/slakh2100_with_submixes_description_train
+  valid: egs/slakh2100_with_submixes_description_validation
+  evaluate: egs/slakh2100_with_submixes_description_test
+  generate: egs/slakh2100_with_submixes_description_test
