@@ -1,5 +1,5 @@
-Music Orchestrator
-Sukru Samet Dindar (sd3705), Siavash Shams (ss6928)
+# Music Orchestrator
+## Sukru Samet Dindar (sd3705), Siavash Shams (ss6928)
 
 The notebook files in the repo are for preparation of the dataset generated for fine-tuning MusicGen Melody and generating the samples.
 The .yaml files are externally added configuration files for fine-tuning the model in Audiocraft.
