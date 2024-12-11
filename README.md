@@ -1,7 +1,7 @@
 # Music Orchestrator
 **Sukru Samet Dindar (sd3705), Siavash Shams (ss6928)**
 
-The notebook files in the repo are for preparation of the dataset generated for fine-tuning MusicGen Melody and generating the samples.
+The notebook files in the repo are for preparation of the dataset generated for fine-tuning MusicGen Melody and generating the samples. \\
 The .yaml files are externally added configuration files for fine-tuning the model in Audiocraft.
 For fine-tuning Music-Gen Melody, Audiocraft library by Meta is used from terminal. Thus, this part doesn't include specific scripts. 
 For the detailed information about how to install and use Audiocraft: https://github.com/facebookresearch/audiocraft
